@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishara de silva</h1>
-<h3 align="center">Student in Faculty of Computing and Technology, university of kelaniya.</h3>
+//<h3 align="center">Student in Faculty of Computing and Technology, university of kelaniya.</h3>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishara1101&label=Profile%20views&color=0e75b6&style=flat" alt="ishara1101" /> </p>
+
+Student in Faculty of Computing and Technology, university of kelaniya.<br>
 
 - 🌱 I’m currently learning **bachelor of engineering and technology**
 
