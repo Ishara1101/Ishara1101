@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishara de silva</h1>
-//<h3 align="center">Student in Faculty of Computing and Technology, university of kelaniya.</h3>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
