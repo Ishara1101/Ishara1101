@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishara1101&label=Profile%20views&color=0e75b6&style=flat" alt="ishara1101" /> </p>
 
-Student in Faculty of Computing and Technology, university of kelaniya.<br>
+Student in Faculty of Computing and Technology, University of Kelaniya.<br>
 
 - 🌱 I’m currently learning **bachelor of engineering and technology**
 
